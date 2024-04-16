@@ -1,6 +1,7 @@
 # Snippet-saver app.
 
-# HTTP, SQL, Architecture separating parts of app for make it safe and clean to maintain.
+# Web-app that helps to make text/code snippets 
+### This app provides interface for making snippets
 ### Stack:
 - Go (http)
 - MySQL
