@@ -13,7 +13,7 @@
 - Validated from backend (validation can be configured)
 - Edited in db by embedded CLI
 
-App provides interface and CLI for intercating with data.
+App provides interface and CLI for interacting with data.
 
 
 
