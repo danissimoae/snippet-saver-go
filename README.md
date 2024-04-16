@@ -12,6 +12,7 @@
 - Fastly recieved from db and mapped on
 - Validated from backend (validation can be configured)
 - Edited in db by embedded CLI
+
 App provides interface and CLI for intercating with data.
 
 
