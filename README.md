@@ -9,9 +9,10 @@
 
 ### Deployed and configured, app makes CRUD operations. Making snippets in DB.
 ### Snippets can be:
-- Readed
-- Edited
-- Deleted
+- Fastly recieved from db and mapped on
+- Validated from backend (validation can be configured)
+- Edited in db by embedded CLI
+App provides interface and CLI for intercating with data.
 
 
 
